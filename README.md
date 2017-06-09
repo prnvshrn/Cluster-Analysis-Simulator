@@ -11,4 +11,5 @@ The input file should be in txt format wherein the titles (if any) should be men
 <br/>Contents of input.txt :- <br/>SPEED,DISTANCE<br/>60,80<br/>70,20<br/>50,60<br/>75,62
 
 ## Screenshots
-
+![alt text](/Cluster1.png)
+![alt text](/Cluster2.png)
